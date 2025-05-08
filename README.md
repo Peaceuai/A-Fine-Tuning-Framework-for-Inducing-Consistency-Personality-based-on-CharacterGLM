@@ -5,4 +5,10 @@ Large language model–based dialogue systems often struggle to maintain consist
 
 # Effect examples
 ## Quantitative results
-Xiao ming (before fine-tune)
+### Xiao ming (before fine-tune)
+ChatGPT-4o Assessment Results
+![image](https://github.com/user-attachments/assets/5995093f-e3d5-4659-b7cd-c0fa6ce9b831)
+
+Manual evaluation results
+![image](https://github.com/user-attachments/assets/17891a04-27ff-47da-8d52-4280d5851db4)
+
