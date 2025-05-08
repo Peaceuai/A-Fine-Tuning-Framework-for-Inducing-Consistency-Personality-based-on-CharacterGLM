@@ -58,4 +58,72 @@ Generate a dataset using our prompt template
 Fine-tune using our code
 
 # References
+[1] R. Oruche, S. K. Goruganthu, R. Akula, X. Cheng, A. M. Goni, B. W. Shibo, K. Kee, M. Zampieri, and P. Calyam, “A survey on the recent advancements in human-centered dialog systems,” ACM Computing Surveys, 2025. ​
 
+[2] N. Partarakis and X. Zabulis, “A review of immersive tech- nologies, knowledge representation, and ai for human-centered digital experiences,” Electronics, vol. 13, no. 2, p. 269, 2024. ​
+
+[3] C. Chen, B. Yao, Y. Ye, D. Wang, and T. J.-J. Li, “Evaluating the llm agents for simulating humanoid behavior,” in Proc. of the 1st Workshop on Human-Centered Evaluation and Auditing of Language Models (CHI Workshop HEAL), 2024. ​
+
+[4] G. Z. Karimova, “Humanizing ai with personality.” ​
+
+[5] A. Fossati, S. Borroni, D. Marchione, and C. Maffei, “The big five inventory (bfi),” European Journal of Psychological Assessment, 2011.​
+
+[6] K. Pan and Y. Zeng, “Do llms possess a personality? making the mbti test an amazing evaluation for large language models,” arXiv preprint arXiv:2307.16180, 2023.​
+
+[7] J. Zhou, Z. Chen, D. Wan, B. Wen, Y. Song, J. Yu, Y. Huang, L. Peng, J. Yang, X. Xiao et al., “Characterglm: Customizing chinese conversational ai characters with large language models,” arXiv preprint arXiv:2311.16832, 2023.​
+
+[8] G. Serapio-García, M. Safdari, C. Crepy, L. Sun, S. Fitz, M. Abdulhai, A. Faust, and M. Matarić, “Personality traits in large language models,” 2023.​
+
+[9] I. Frisch and M. Giulianelli, “Llm agents in interaction: Measuring personality consistency and linguistic alignment in interacting populations of large language models,” arXiv preprint arXiv:2402.02896, 2024.​
+
+[10] S. Phibbs, R. S. Stawski, S. W. MacDonald, E. Munoz, J. M. Smyth, and M. J. Sliwinski, “The influence of social support and perceived stress on response time inconsistency,” Aging & mental health, vol. 23, no. 2, pp. 214–221, 2019.​
+
+[11] E. Rasskazova, A. Spivakovskaya, and A. Tkhostov, “True and variable response inconsistency as indicators of psychological distress in the normative sample and mental disorders,” European Psychiatry, vol. 41, no. S1, pp. S183–S183, 2017.​
+
+[12] C. Ran, “Exploring the opportunities and challenges of developing large ai models and their commercialization,” Advances in Engineering Technology Research, vol. 6, no. 1, pp. 611–611, 2023.​
+
+[13] P. P. Shenoy, “Large language model virtual assistants for international business and product marketing,” in 2024 13th International Conference on System Modeling & Advancement in Research Trends (SMART). IEEE, 2024, pp. 556–564.​
+
+[14] J. Park, C. Park, and H. Lim, “Enhancing consistency and role-specific knowledge capturing by rebuilding fictional character’s persona,” arXiv preprint arXiv:2405.19778, 2024.​
+
+[15] M. Zhu, Y. Weng, L. Yang, and Y. Zhang, “Personality alignment of large language models,” arXiv preprint arXiv:2408.11779, 2024.​
+
+[16] B. Yang, D. Liu, C. Xiao, K. Zhao, C. Tang, C. Li, L. Yuan, G. Yang, L. Huang, and C. Lin, “Crafting customisable characters with llms: Introducing simschat, a persona-driven role-playing agent framework,” arXiv preprint arXiv:2406.17962, 2024.​
+
+[17] A. Hamdi, A. A. Mazrou, and M. Shaltout, “Llm-sem: A sentiment-based student engagement metric using llms for e-learning platforms,” arXiv preprint arXiv:2412.13765, 2024.​
+
+​[18] S. Zhang, E. Dinan, J. Urbanek, A. Szlam, D. Kiela, and J. Weston, “Personalizing dialogue agents: I have a dog, do you have pets too?” arXiv preprint arXiv:1801.07243, 2018.​
+
+[19] L. J. Klinkert, S. Buongiorno, and C. Clark, “Evaluating the efficacy of llms to emulate realistic human personalities,” in Proceedings of the AAAI Conference on Artificial Intelligence​
+
+and Interactive Digital Entertainment, vol. 20, no. 1, 2024, pp. 65–75.​
+
+[20] N. Chen, Y. Wang, Y. Deng, and J. Li, “The oscars of ai theater: A survey on role-playing with language models,” arXiv preprint arXiv:2407.11484, 2024.​
+
+[21] B. Yang, D. Liu, C. Tang, C. Xiao, K. Zhao, C. Li, L. Yuan, G. Yang, L. Huang, and C. Lin, “Simschat: A customisable persona-driven role-playing agent,” arXiv e-prints, pp. arXiv– 2406, 2024.​
+
+[22] R. Uehara, “Enhancing role-playing capabilities in persona dialogue systems through corpus construction and evaluation methods,” in Proceedings of the 20th Workshop of Young Researchers’ Roundtable on Spoken Dialogue Systems, 2024, pp. 73–75.​
+
+[23] H. Jiang, X. Zhang, X. Cao, C. Breazeal, D. Roy, and J. Kabbara, “Personallm: Investigating the ability of large language models to express personality traits,” arXiv preprint arXiv:2305.02547, 2023.​
+
+[24] E. Choi, Y. Jo, J. Jang, and M. Seo, “Prompt injection: Parameterization of fixed inputs,” arXiv preprint arXiv:2206.11349, 2022.​
+
+[25] J. Lu, D. Li, B. Ding, and Y. Kang, “Improving embedding with contrastive fine-tuning on small datasets with expert-augmented scores,” arXiv preprint arXiv:2408.11868, 2024.​
+
+[26] L. Yun, L. Peng, and J. Shang, “Ultragen: Extremely fine-grained controllable generation via attribute reconstruction and global preference optimization,” arXiv preprint arXiv:2502.12375, 2025.​
+
+[27] M. Sbisà, “Speech act theory,” in Key notions for pragmatics. John Benjamins Publishing Company, 2009, pp. 229–244.​
+
+[28] R. W. Picard, Affective computing. MIT press, 2000.​
+
+[29] D. Porello, E. Bottazzi, and R. Ferrario, “Group conflict as social contradiction,” Conflict and Multimodal Communication: Social Research and Machine Intelligence, pp. 33–52, 2015.​
+
+[30] I. J. Goodfellow, J. Shlens, and C. Szegedy, “Explaining and harnessing adversarial examples,” 2015. [Online]. Available: https://arxiv.org/abs/1412.6572​
+
+[31] A. Madry, A. Makelov, L. Schmidt, D. Tsipras, and A. Vladu, “Towards deep learning models resistant to adversarial attacks,” 2019. [Online]. Available: https://arxiv.org/abs/1706.06083​
+
+[32] S. Welleck, I. Kulikov, S. Roller, E. Dinan, K. Cho, and J. Weston, “Neural text generation with unlikelihood training,” 2019. [Online]. Available: https://arxiv.org/abs/1908.04319​
+
+[33] X. Han, W. Zhao, Z. Guan, and J. Peng, “Act-llm: A whole-process chain for character-centric role-playing with llms,” Available at SSRN 5230378.​
+
+[34] K. Ji, Y. Lian, L. Li, J. Gao, W. Li, and B. Dai, “Enhancing persona consistency for llms’ role-playing using persona-aware contrastive learning,” arXiv preprint arXiv:2503.17662, 2025.​
