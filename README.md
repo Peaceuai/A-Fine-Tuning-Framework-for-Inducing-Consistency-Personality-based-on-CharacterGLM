@@ -47,7 +47,15 @@ after attack
 
 # How to use
 
+## Constructing the dataset
 
+Generate a dataset using our prompt template
+
+![image](https://github.com/user-attachments/assets/0675ad5f-c38d-4766-98a4-38fa21d65cdd)
+
+## Fine-tuning
+
+Fine-tune using our code
 
 
 
