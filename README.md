@@ -17,3 +17,12 @@ Manual evaluation results
 
 ![image](https://github.com/user-attachments/assets/17891a04-27ff-47da-8d52-4280d5851db4)
 
+### Xiao ming (after fine-tune)​
+
+ChatGPT-4o Assessment Results
+
+![image](https://github.com/user-attachments/assets/0d548b03-ace2-40ba-a7bd-3284b8dfc9c0)
+
+Manual evaluation results
+
+![image](https://github.com/user-attachments/assets/d52cadaa-bde3-4c5b-93a8-724ca9ea7f53)
