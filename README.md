@@ -26,3 +26,28 @@ ChatGPT-4o Assessment Results
 Manual evaluation results
 
 ![image](https://github.com/user-attachments/assets/d52cadaa-bde3-4c5b-93a8-724ca9ea7f53)
+
+## Qualitative results
+
+### Xiao ming (before fine-tune)
+
+![image](https://github.com/user-attachments/assets/9aea9993-00f9-448d-8378-b12161ef725e)
+
+after attack
+
+![image](https://github.com/user-attachments/assets/c891742b-4335-4897-b1f2-2df509f7e868)
+
+### Xiao ming (after fine-tune)
+
+![image](https://github.com/user-attachments/assets/2f4b5773-ac12-42c4-baf5-7ef08d0c3569)
+
+after attack
+
+![image](https://github.com/user-attachments/assets/af25d8c4-180e-43e2-bbcd-44d1cd6e6d69)
+
+# How to use
+
+
+
+
+
